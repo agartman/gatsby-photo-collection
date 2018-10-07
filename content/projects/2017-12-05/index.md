@@ -1,10 +1,9 @@
 ---
 cover: "./marion-michele.jpg"
-date: "2017-12-05"
-title: "Marion Michele"
+date: "2018-10-04"
+title: "Portugal"
 areas:
     - Photography
-    - Art
 ---
 
-Hi! I hope you like this theme and enjoy working with it.
+We had a vacation for two weeks, first week in Algarve, second with friends in Sintra. Photos in Sintra from the villa in Colares, Pena palace, and Quinta da Regalera.

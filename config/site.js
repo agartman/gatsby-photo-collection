@@ -1,18 +1,18 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
-  siteTitle: 'Emilia', // Navigation and Site Title
-  siteTitleAlt: 'Emilia - Gatsby Starter Portfolio', // Alternative Site title for SEO
+  siteTitle: `Atte's photo collection`, // Navigation and Site Title
+  siteTitleAlt: `Collections of photos from Atte Gartman`, // Alternative Site title for SEO
   siteUrl: 'https://portfolio-emilia.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
-  siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
+  siteDescription: `A site to display Atte's photos`,
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@emilia', // Twitter Username
-  ogSiteName: 'emilia', // Facebook Site Name
+  userTwitter: '@attegman', // Twitter Username
+  ogSiteName: 'attegartman', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
-  googleAnalyticsID: 'UA-12345689-1',
+  //googleAnalyticsID: 'UA-12345689-1',
 
   // Manifest and Progress color
   themeColor: '#3498DB',
@@ -25,16 +25,5 @@ module.exports = {
 
   // Your information
   avatar: '/logos/social.png',
-  name: 'LekoArts',
-  location: 'Germany',
-  socialMedia: [
-    {
-      url: 'https://www.facebook.com/lekoarts.de',
-      name: 'Facebook',
-    },
-    {
-      url: 'https://www.instagram.com/lekoarts.de',
-      name: 'Instagram',
-    },
-  ],
+  name: `Atte's photo collection`,  
 };
