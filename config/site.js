@@ -3,7 +3,7 @@ module.exports = {
 
   siteTitle: `Atte's photo collection`, // Navigation and Site Title
   siteTitleAlt: `Collections of photos from Atte Gartman`, // Alternative Site title for SEO
-  siteUrl: 'https://portfolio-emilia.netlify.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://holiday-pics.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
   siteDescription: `A site to display Atte's photos`,
